@@ -133,4 +133,4 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
-NPM_BIN_PATH = '/home/toqa/.nvm/versions/node/v18.13.0/bin/npm'
+# NPM_BIN_PATH = '/home/toqa/.nvm/versions/node/v18.13.0/bin/npm'
